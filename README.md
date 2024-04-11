@@ -1,5 +1,3 @@
-Certainly, here's a consolidated version of the README section for adding new clients, combining all steps and code snippets into a single code block for clarity and ease of use:
-
 ```markdown
 # PazNetworks-APIs Project
 
