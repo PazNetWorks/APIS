@@ -1,4 +1,4 @@
-```markdown
+
 # PazNetworks-APIs Project
 
 Welcome to the PazNetworks-APIs repository! This repository is structured to manage and maintain FastAPI projects for our clients in an organized, scalable manner. Below you'll find instructions on how to add new clients to this structure.
