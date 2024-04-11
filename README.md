@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9bd304366aedc571380ff2b1fed2b6e9b5da8b2d
 # PazNetworks-APIs Project
 
 Welcome to the PazNetworks-APIs repository! This repository is structured to manage and maintain FastAPI projects for our clients in an organized, scalable manner. Below you'll find instructions on how to add new clients to this structure.
