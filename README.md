@@ -1,6 +1,3 @@
-Certainly, here's a consolidated version of the README section for adding new clients, combining all steps and code snippets into a single code block for clarity and ease of use:
-
-```markdown
 # PazNetworks-APIs Project
 
 Welcome to the PazNetworks-APIs repository! This repository is structured to manage and maintain FastAPI projects for our clients in an organized, scalable manner. Below you'll find instructions on how to add new clients to this structure.
@@ -79,4 +76,4 @@ When onboarding a new client or starting a new project, follow these steps to cr
    ```
 
 Following these steps will ensure that each client project is set up consistently, making it easier to manage and scale our API development efforts. For specific details on development workflows, testing, and deployment, refer to the subsequent sections of this document.
-```
+
